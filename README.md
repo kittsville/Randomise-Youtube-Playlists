@@ -10,6 +10,8 @@ It seems like a simple tool that would exist but I couldn't find one, so I made 
 
 Python 3 + `pip install -r requirements.txt`
 
+You'll need to set up a Google API OAuth2 app with access to `youtube.googleapis.com` that requests the `auth/youtube` scope
+
 ## Usage
 
 ```bash
